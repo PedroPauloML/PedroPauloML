@@ -1,4 +1,4 @@
-### E aí, meu jovem, beleza? Meu nome é PedroPauloML 👋
+### E aí, meu jovem, beleza? Eu sou PedroPauloML 👋
 
 ## Eu sou tocador, cantor, desenvolvedor e capoerista!
 
