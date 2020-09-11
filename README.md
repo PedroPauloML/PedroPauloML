@@ -6,7 +6,7 @@
 * 👨🏻‍💻 Minha especialidade é back-end, com Ruby on Rails, mas me considero Full-Stack por sempre ter trabalhado com front-end, também
 * 📚 Atualmente estou aprendendo VueJS e aplicando meus conhecimentos no projeto pessoal [iap-vue](https://github.com/PedroPauloML/iap-vue)
 * 🤼‍♂️ 4ª graduação no grupo de capoeira [Libertação](https://www.instagram.com/capoeiralibertacaobahia/)
-* 🥅 Meu sonho tão aumentajo é montar aquele escritório-estúdio over power, para codar enquanto toco guitarra
+* 🥅 Meu sonho tão aumetajo é montar aquele escritório-estúdio over power, para codar enquanto toco guitarra
 
 ### Conecte-se a mim:
 
