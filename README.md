@@ -39,5 +39,5 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropauloml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[instagram]: https://www.instagram.com/pequeno_lb/
+[instagram]: https://www.instagram.com/pedropauloml/
 [linkedin]: https://www.linkedin.com/in/pedropauloml/
