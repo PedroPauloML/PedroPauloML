@@ -1,12 +1,10 @@
 ### E aí, meu jovem, beleza? Eu sou PedroPauloML 👋
 
-## Eu sou tocador, cantor, desenvolvedor e capoerista!
+## Eu sou tocador, cantor, desenvolvedor e amante das artes marciais!
 
-* 🎸 Amo tocar e cantar na igreja. Faço parte até de um grupo, o [Ministério Ohana](https://www.instagram.com/ministry_ohana/)
-* 👨🏻‍💻 Minha especialidade é back-end, com Ruby on Rails, mas me considero Full-Stack por sempre ter trabalhado com front-end, também
-* 📚 Atualmente estou aprendendo VueJS e aplicando meus conhecimentos no projeto pessoal [iap-vue](https://github.com/PedroPauloML/iap-vue)
-* 🤼‍♂️ 4ª graduação no grupo de capoeira [Libertação](https://www.instagram.com/capoeiralibertacaobahia/)
-* 🥅 Meu sonho tão aumetajo é montar aquele escritório-estúdio over power, para codar enquanto toco guitarra
+* 🎸 Amo tocar e cantar na igreja
+* 👨🏻‍💻 Sou um desenvolvedor Full-Stack. Iniciei no back-end, mas logo me apaixonei por front-end e uni o melhor dos dois mundos. Ruby on Rails e NextJS ❤️
+* 🥅 Meu sonho tão aumejado é montar aquele escritório-estúdio over power, para codar enquanto toco guitarra e bateria
 
 ### Conecte-se a mim:
 
